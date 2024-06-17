@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <input
+      type="file"
+      id="docpicker"
+      accept=".doc,.docx,.xml,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    />
+
+    <form method="post" enctype="multipart/form-data">
+        <div>
+          <label for="profile_pic">Choose file to upload</label>
+          <input
+            type="file"
+            id="profile_pic"
+            name="profile_pic"
+            accept=".jpg, .jpeg, .png" />
+        </div>
+        <div>
+          <button>Submit</button>
+        </div>
+      </form>
+      
+  </body>
+</html>
