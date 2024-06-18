@@ -57,7 +57,7 @@ npm install -g json-server
 ## Start JSON Server:
 
 ```bash
-json-server --watch event.json --port 3003
+npx json-server --watch data/event.json --port 3003
 ```
 
 ## Running the Application
