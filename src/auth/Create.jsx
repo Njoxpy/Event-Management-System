@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 
 export default function Create() {
   const [eventName, setEventName] = useState("");
@@ -79,6 +79,65 @@ export default function Create() {
               setEventTime(event.target.value);
             }}
           />
+        </div>
+
+        <div>
+          <label htmlFor="date">Event Date:</label>
+          <input type="date" name="" id="" className="border p-2 m-2" />
+        </div>
+        <div>
+          <label htmlFor="description">Description</label>
+          <textarea
+            name=""
+            id=""
+            required
+            placeholder="Enter a brief description of the event"
+            className="border p-2 m-2"
+          ></textarea>
+        </div>
+
+        <div>
+          <label htmlFor="description">Agenda or Schedule</label>
+          <textarea
+            name=""
+            id=""
+            required
+            placeholder="Outline the event schedule or agenda"
+            className="border p-2 m-2"
+          ></textarea>
+        </div>
+
+        <div>
+          <label htmlFor="contact" Organizer Contact></label>
+          <input
+            type="text"
+            name=""
+            id=""
+            required
+            placeholder="Enter organizer's contact information"
+            className="border p-2 m-2"
+          />
+        </div>
+
+        <div>
+          <label htmlFor="capacity">Capacity</label>
+          <input
+            type="number"
+            name=""
+            id=""
+            required
+            placeholder="Enter maximum number of attendees"
+            className="border p-2 m-2"
+          />
+        </div>
+
+        <div>
+          <label htmlFor="category" Category></label>
+          <select name="" id="">
+            <option value="conference">Conference</option>
+            <option value="conference">Workshop</option>
+            <option value="conference">Mettup</option>
+          </select>
         </div>
 
         <div>

@@ -1,5 +1,4 @@
-import React from "react";
-import { useLoaderData, Link, NavLink } from "react-router-dom";
+import { useLoaderData, NavLink } from "react-router-dom";
 
 export default function Events() {
   const events = useLoaderData();

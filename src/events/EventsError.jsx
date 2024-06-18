@@ -1,4 +1,3 @@
-import React from "react";
 import { NavLink, useRouteError } from "react-router-dom";
 
 export default function EventsError() {

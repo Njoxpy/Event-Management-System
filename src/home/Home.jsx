@@ -1,7 +1,6 @@
-import React from "react";
 import { Link, useLoaderData } from "react-router-dom";
 
-export default function home() {
+export default function Home() {
   const events = useLoaderData();
   return (
     <div>
