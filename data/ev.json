@@ -1,0 +1,52 @@
+[
+    {
+        "EventName": "Serengeti Wildebeest Migration",
+        "EventDate": "2024-06-18",
+        "EventTime": "Whole Day",
+        "Description": "Witness the awe-inspiring spectacle of the Great Migration, where millions of wildebeest embark on their annual journey across the Serengeti plains.",
+        "Link": "https://www.sciencedirect.com/science/article/pii/S0006320720307461"
+    },
+    {
+        "EventName": "Ngorongoro Crater Tour",
+        "EventDate": "2024-06-20",
+        "EventTime": "Morning",
+        "Description": "Explore the Ngorongoro Crater, a UNESCO World Heritage Site and home to a diverse range of wildlife.",
+        "Link": "https://www.tanzaniaparks.go.tz/"
+    },
+    {
+        "EventName": "Zanzibar Island Escape",
+        "EventDate": "2024-06-22",
+        "EventTime": "Throughout the day",
+        "Description": "Relax and unwind on the beautiful beaches of Zanzibar, known for its turquoise waters and stunning coral reefs.",
+        "Link": "https://www.tanzaniatourism.go.tz/"
+    },
+    {
+        "EventName": "Lake Manyara National Park",
+        "EventDate": "2024-06-24",
+        "EventTime": "Full Day",
+        "Description": "Go on a safari adventure in Lake Manyara National Park, known for its tree-climbing lions and diverse birdlife.",
+        "Link": "https://www.lakemanyara.net/"
+    },
+    {
+        "EventName": "Visit a Local Maasai Village",
+        "EventDate": "2024-06-26",
+        "EventTime": "Afternoon",
+        "Description": "Immerse yourself in the culture of the Maasai people by visiting a traditional village and learning about their way of life.",
+        "Link": "https://www.tripadvisor.com/ShowUserReviews-g317085-d8845478-r606395904-Masai_Tribe-Ngorongoro_Conservation_Area_Arusha_Region.html]"
+    },
+    {
+        "EventName": "Coffee Plantation Tour",
+        "EventDate": "2024-06-28",
+        "EventTime": "Morning",
+        "Description": "Learn about Tanzania's coffee production process by taking a tour of a local coffee plantation.",
+        "Link": "https://www.tripadvisor.com/Attractions-g293747-Activities-c42-t202-Tanzania.html]"
+    },
+    {
+        "EventName": "Wildlife Viewing in Tarangire National Park",
+        "EventDate": "2024-06-30",
+        "EventTime": "Full Day",
+        "Description": "See a variety of animals, including elephants, lions, and zebras, on a safari in Tarangire National Park.",
+        "Link": "https://www.tanzaniaparks.go.tz/"
+    }
+    
+]

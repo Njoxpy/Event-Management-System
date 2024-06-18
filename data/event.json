@@ -1,0 +1,144 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "EventName": "Introduction to Web Development Workshop",
+            "EventDate": "2024-06-20",
+            "EventTime": "Full Day",
+            "Description": "Learn the basics of web development and build your first website in this hands-on workshop.",
+            "Link": "placeholder for workshop details",
+            "Location": "Nkuhungu",
+            "Contact": "+255 623 216 660"
+        },
+        {
+            "id": 2,
+            "EventName": "Tech Talk: Using Technology for Social Good in Njombe",
+            "EventDate": "2024-06-22",
+            "EventTime": "Evening",
+            "Description": "Join a discussion on how technology can be used to address social and environmental challenges in Njombe.",
+            "Link": "placeholder for tech talk details",
+            "Location": "Fumbakasa Labs",
+            "Contact": "+255 623 216 660"
+        },
+        {
+            "id": 3,
+            "EventName": "Coding Club for Beginners",
+            "EventDate": "Every Wednesday",
+            "EventTime": "Afternoon",
+            "Description": "Practice your coding skills and learn from others in a supportive environment. Open to beginners of all ages.",
+            "Link": "placeholder for coding club details",
+            "Location": "Dar Es Salaam, Binary Labs",
+            "Contact": "+255 623 216 660"
+        },
+        {
+            "id": 4,
+            "EventName": "Guest Speaker: Local Tech Entrepreneur",
+            "EventDate": "2024-06-28",
+            "EventTime": "Afternoon",
+            "Description": "Hear from a successful tech entrepreneur from Njombe about their journey and insights into the tech industry.",
+            "Link": "placeholder for speaker details",
+            "Location": "Makutupora",
+            "Contact": "+255 623 216 660"
+        },
+        {
+            "id": 5,
+            "EventName": "Open Source Project Meetup",
+            "EventDate": "2024-07-02",
+            "EventTime": "Evening",
+            "Description": "Contribute to open-source projects and connect with other developers in Njombe who are passionate about open-source software.",
+            "Link": "placeholder for meetup details",
+            "Location": "Itende",
+            "Contact": "+255 623 216 660"
+        },
+        {
+            "id": 6,
+            "EventName": "Data Analysis for Local Businesses Workshop",
+            "EventDate": "2024-07-04",
+            "EventTime": "Full Day",
+            "Description": "Learn how to use data analysis tools to gain insights from your business data and make better decisions.",
+            "Link": "placeholder for workshop details",
+            "Location": "Ujiji",
+            "Contact": "+255 623 216 660"
+        },
+        {
+            "id": 7,
+            "EventName": "Internet of Things (IoT) Intro Session",
+            "EventDate": "2024-07-09",
+            "EventTime": "Morning",
+            "Description": "Explore the concept of IoT and its potential applications in Njombe, from smart agriculture to environmental monitoring.",
+            "Link": "placeholder for session details",
+            "Location": "Posta",
+            "Contact": "+255 623 216 660"
+        },
+        {
+            "id": 8,
+            "EventName": "Tech Career Guidance Workshop",
+            "EventDate": "2024-07-11",
+            "EventTime": "Afternoon",
+            "Description": "Get advice on how to launch your tech career, including resume writing, interview skills, and job searching in Tanzania.",
+            "Link": "placeholder for workshop details",
+            "Location": "Kwa Tumbo Barabara ya 6",
+            "Contact": "+255 623 216 660"
+        },
+        {
+            "id": 9,
+            "EventName": "Digital Marketing for Small Businesses",
+            "EventDate": "2024-07-16",
+            "EventTime": "Morning",
+            "Description": "Learn how to use digital marketing tools to reach more customers and grow your small business in Njombe.",
+            "Link": "placeholder for workshop details",
+            "Location": "Chaugingi",
+            "Contact": "+255 623 216 660"
+        },
+        {
+            "id": 10,
+            "EventName": "Community Tech Help Desk",
+            "EventDate": "Every Saturday",
+            "EventTime": "Morning",
+            "Description": "Get free help with your tech problems, from setting up your phone to troubleshooting software issues. Open to all residents of Njombe.",
+            "Link": "placeholder for help desk details",
+            "Location": "Makambako",
+            "Contact": "+255 623 216 660"
+        },
+        {
+            "id": 11,
+            "EventName": "Cultural Performances in Mbeya",
+            "EventDate": "2024-07-04",
+            "EventTime": "Evening",
+            "Description": "Experience the rich culture of Mbeya by attending a traditional dance or music performance.",
+            "Link": "https://www.mbeyacity.com/mbeya-cultural-tourism/]",
+            "Location": "Soweto",
+            "Contact": "+255 623 216 660"
+        },
+        {
+            "id": 12,
+            "EventName": "Visit Stone Town, Zanzibar",
+            "EventDate": "2024-07-02",
+            "EventTime": "Throughout the day",
+            "Description": "Explore the historic Stone Town in Zanzibar, a UNESCO World Heritage Site known for its labyrinthine streets and Swahili architecture.",
+            "Link": "https://whc.unesco.org/en/list/173/]",
+            "Location": "Stone Town",
+            "Contact": "+255 623 216 660"
+        },
+        {
+            "id": 13,
+            "EventName": "Mount Kilimanjaro Climb",
+            "EventDate": "Varies",
+            "EventTime": "Multi-day Trip",
+            "Description": "Challenge yourself by trekking up Africa's highest mountain, Mount Kilimanjaro, for an unforgettable experience.",
+            "Link": "https://www.mtsobek.com/trips/africa/tanzania/tanzania-climb-kilimanjaro/]",
+            "Location": "Marangu Mtoni",
+            "Contact": "godblessnyagawa@gmail.com"
+        },
+        {
+            "id": 14,
+            "EventName": "Maujanja Plokadot Event Mbeya",
+            "EventDate": "2024-06-20",
+            "EventTime": "Morning",
+            "Description": "Learn to Build Web3.0 appications using Polkadot.",
+            "Link": "placeholder for workshop details",
+            "Location": "GR City Hotel",
+            "Contact": "+255 444 216 660"
+        }
+    ]
+}
